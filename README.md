@@ -21,3 +21,6 @@
 ![Ibrohims's GitHub stats](https://github-readme-stats.vercel.app/api?username=khasanovibrohim&show_icons=true&theme=dark)
 
 #
+### Follow me
+ 
+   [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/ibroxim_KHasanov) [![Codepen](https://img.shields.io/badge/Codepen-090909?style=for-the-badge&logo=Codepen&logoColor=FF0000)](https://codepen.io/is-slavk)
