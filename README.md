@@ -23,4 +23,4 @@
 #
 ### Follow me
  
-   [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/ibrohim_KHasanov) [![Codepen](https://img.shields.io/badge/Codepen-090909?style=for-the-badge&logo=Codepen&logoColor=FF0000)](https://codepen.io/is-slavk)
+   [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/ibrohim_KHasanov) [![Telegram Blog](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/ibrohimdev_blog) [![Codepen](https://img.shields.io/badge/Codepen-090909?style=for-the-badge&logo=Codepen&logoColor=FF0000)](https://codepen.io/is-slavk) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=FF0000)](https://codepen.io/is-slavk) 
